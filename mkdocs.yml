@@ -1,4 +1,4 @@
-site_name: Machine Learning
+site_name: QiShi第八期中级ML学习小组
 
 theme:
     name: 'material'
@@ -8,7 +8,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: blue
-      accent: green
+      accent: grey
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -17,7 +17,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: blue
-      accent: green
+      accent: grey
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
