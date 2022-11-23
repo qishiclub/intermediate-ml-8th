@@ -2,7 +2,8 @@
 
 ## Textbook:  
 
-The Elements of Statistical Learning; An Introduction to Statistical Learning 
+The Elements of Statistical Learning
+An Introduction to Statistical Learning 
 
 ## Reference:  
 
