@@ -133,7 +133,7 @@ CASI: 16.1-16.8  
 
 Week 24(4.22): Lecture 12: EM Algorithm (Bin Han)  
 
-Week 25(4.29): Lecture 13: Graphical Models 
+Week 25(4.29): Lecture 13: Graphical Models (Optional)
 
 ESL: 17.1-17.4; PRML: 8.1-8.4 
 
@@ -141,10 +141,12 @@ Week 26(5.6): Lecture 14: Sequential Data: HMM (Junlin Liu) 
 
 PRML: 13.1-13.3 
 
-Week 27(5.13): Lecture 15: Generative Model: VAE, GAN, and Diffusion (Hao Ying) 
+Week 27(5.13): Lecture 15: Generative Model: VAE, Flow, and GAN (Hao Ying) 
 
 PMLAdva: Part IV 
 
-Week 28(5.20): Lecture 16: High-Dimensional Problems 
+Week 28(5.20): Lecture 16: Diffusion Model (Optional)(Very Hot Topic!!!)
+
+Week 28(5.27): Lecture 17: High-Dimensional Problems (Optional)
 
 ESL: Chapter 18
