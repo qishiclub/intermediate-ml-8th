@@ -2,7 +2,8 @@
 
 ## Textbook  
 
-[The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) 
+[The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
+ 
 [An Introduction to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) 
 
 ## Reference  
