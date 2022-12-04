@@ -3,7 +3,7 @@
 ## Textbook  
 
 [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
- 
+
 [An Introduction to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) 
 
 ## Reference  
@@ -34,7 +34,7 @@ PML: Advanced Topics: [https://probml.github.io/pml-book/book2.html](https://pro
 
 4. BIMSA: Bayesian Machine Learning [https://www.bimsa.cn/newsinfo/752150.html](https://www.bimsa.cn/newsinfo/752150.html) 
 
-5. Bilibili: 机器学习白板推导 [https://www.bilibili.com/video/BV1aE411o7qd/?spm_id_from=333.788.recommend_more_video.0&vd_source=648125ac3e2fb6b31759a16531ce143b](https://www.bilibili.com/video/BV1aE411o7qd/?spm_id_from=333.788.recommend_more_video.0&vd_source=648125ac3e2fb6b31759a16531ce143b) 
+5. Bilibili: 机器学习白板推导 [https://www.bilibili.com/video/BV1aE411o7qd](https://www.bilibili.com/video/BV1aE411o7qd) 
 
 ## 正式组 requirement 
 
