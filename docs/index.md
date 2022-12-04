@@ -1,10 +1,11 @@
 # Syllabus 
 
-## Textbook:  
+## Textbook  
 
-The Elements of Statistical Learning; An Introduction to Statistical Learning 
+[The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) 
+[An Introduction to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) 
 
-## Reference:  
+## Reference  
 
 Hastie’s homepage: [https://hastie.su.domains/index.html](https://hastie.su.domains/index.html) 
 
@@ -12,11 +13,11 @@ Friedman’s homepage: [https://jerryfriedman.su.domains](https://jerryfriedman.
 
 Python code for ISL: [https://github.com/JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python) 
 
-## Books: 
+## Books 
 
 Computer-Age Statistical Inference 
 
-Pattern Recognition and Machine Learning(Bible) 
+Pattern Recognition and Machine Learning (Bible) 
 
 Probabilistic Machine Learning: [https://probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html) 
 
@@ -24,25 +25,15 @@ PML: Advanced Topics: [https://probml.github.io/pml-book/book2.html](https://pro
 
 ## Open Courses(with video): 
 
-1. Stanford ISL(Hastie):  
+1. Stanford ISL(Hastie): [https://www.edx.org/course/statistical-learning](https://www.edx.org/course/statistical-learning) 
 
-[https://www.edx.org/course/statistical-learning](https://www.edx.org/course/statistical-learning) 
+2. NTU Machine Learning Foundation and Technics(林轩田) [https://www.coursera.org/instructor/htlin](https://www.coursera.org/instructor/htlin)  
 
-2. NTU Machine Learning Foundation and Technics(林轩田) 
+3. BIMSA: Sequential Model and Time series [https://www.bimsa.cn/newsinfo/749652.html](https://www.bimsa.cn/newsinfo/749652.html) 
 
-[https://www.coursera.org/instructor/htlin](https://www.coursera.org/instructor/htlin)  
+4. BIMSA: Bayesian Machine Learning [https://www.bimsa.cn/newsinfo/752150.html](https://www.bimsa.cn/newsinfo/752150.html) 
 
-3. BIMSA: Sequential Model and Time series 
-
-[https://www.bimsa.cn/newsinfo/749652.html](https://www.bimsa.cn/newsinfo/749652.html) 
-
-4. BIMSA: Bayesian Machine Learning 
-
-[https://www.bimsa.cn/newsinfo/752150.html](https://www.bimsa.cn/newsinfo/752150.html) 
-
-5. Bilibili: 机器学习白板推导 
-
-[https://www.bilibili.com/video/BV1aE411o7qd/?spm_id_from=333.788.recommend_more_video.0&vd_source=648125ac3e2fb6b31759a16531ce143b](https://www.bilibili.com/video/BV1aE411o7qd/?spm_id_from=333.788.recommend_more_video.0&vd_source=648125ac3e2fb6b31759a16531ce143b) 
+5. Bilibili: 机器学习白板推导 [https://www.bilibili.com/video/BV1aE411o7qd/?spm_id_from=333.788.recommend_more_video.0&vd_source=648125ac3e2fb6b31759a16531ce143b](https://www.bilibili.com/video/BV1aE411o7qd/?spm_id_from=333.788.recommend_more_video.0&vd_source=648125ac3e2fb6b31759a16531ce143b) 
 
 ## 正式组 requirement 
 
@@ -56,7 +47,7 @@ Tutorial: lecture (continued), assignments, interview questions 
 
 Week 1(10.29): Orientation 
 
-### Basic Topics: 
+### Basic Topics 
 
 Week 2(11.5): Introduction1-Linear Algebra (Xiaonan Peng) 
 
@@ -116,7 +107,7 @@ Week 19(3.4): Tutorial 7(Xiaonan Peng) 
 
 Week 20(3.11): Tutorial 8(Jade Tan) 
 
-### Advanced Topics: 
+### Advanced Topics 
 
 Week 21(3.18): Lecture 9: Prototype Analysis ,KNN, and Survival Analysis (Bowei Fan) 
 
