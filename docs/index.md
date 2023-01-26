@@ -82,51 +82,55 @@ ISL: 7.1-7.7; ESL: 5.1-5.6, 6.1-6.9 
 
 Week 13: Break
 
-Week 14(1.28): Tutorial 3(Hao Ying) 
+Week 14(1.28): Interview question of regression(Xiaonan Peng)
 
-Week 15(2.4): Tutorial 4(Bowei Fan)  
+Week 15(2.4): Tutorial 3(Hao Ying) 
 
-Week 16(2.11): Lecture 5: Tree and Random Forest (Zhuangzhuang Han) 
+Week 16(2.11): Tutorial 4(Bowei Fan) 
+
+Week 17(2.18): Lecture 5: Tree and Random Forest (Zhuangzhuang Han) 
 
 ISL: 8.1, 8.2.1-8.2.2; ESL: 9.1-9.7, 15.1-15.4  
 
-Week 17(2.18): Lecture 6: Boosting (Zhe Yang) 
+Week 18(2.25): Lecture 6: Boosting (Zhe Yang) 
 
 ISL: 8.2.3-8.2.5; ESL:10.1-10.14, 16.1-16.3 
 
-Week 18(2.25): Tutorial 5 (Zhuangzhuang Han) 
+Week 19(3.4): Tutorial 5 (Zhuangzhuang Han) 
 
-Week 19(3.4): Tutorial 6 (Zhe Yang) 
+Week 20(3.11): Tutorial 6 (Zhe Yang) 
 
-Week 20: Break
+Week 21: Break
 
-Week 21(3.18): Lecture 7: SVM (Xiaonan Peng) 
+Week 22(3.25): Lecture 7: SVM (Xiaonan Peng) 
 
 ISL: 9.1-9.5; ESL 12.1-12.6 
 
-Week 22(3.25): Lecture 8: Deep Learning (Jade Tan) 
+Week 23(4.1): Lecture 8: Deep Learning (Jade Tan) 
 
 ISL: 10.1-10.8; ESL: 11.1-11.10; PRML: Chapter 5; [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/) 
 
-Week 23(4.1): Tutorial 7(Xiaonan Peng) 
+Week 24(4.8): Tutorial 7(Xiaonan Peng) 
 
-Week 24(4.8): Tutorial 8(Jade Tan) 
+Week 25(4.15): Tutorial 8(Jade Tan) 
+
+Week 26: Break
 
 ### Advanced Topics 
 
-Week 25(4.15): Lecture 9: Prototype Analysis ,KNN, and Survival Analysis (Bowei Fan) 
+Week 27(4.29): Lecture 9: Prototype Analysis ,KNN, and Survival Analysis (Bowei Fan) 
 
 ISL: 11.1-11.7 ESL: 13.1-13.5 
 
-Week 26(4.22): Lecture 10: Unsupervised Learning 
+Week 28(5.6): Lecture 10: Unsupervised Learning 
 
 ISL: 12.1-12.4; ESL: 14.1-14.10 
 
-Week 27(4.29): Lecture 11: Sparse Modeling and Lasso (Zhiyuan Li) 
+Week 29(5.13): Lecture 11: Sparse Modeling and Lasso (Zhiyuan Li) 
 
 CASI: 16.1-16.8  
 
-Week 28(5.6): Lecture 12: EM Algorithm (Bin Han)  
+Week 30(5.6): Lecture 12: EM Algorithm (Bin Han)  
 
 Week 29(5.13): Lecture 13: Graphical Models (Optional)
 
