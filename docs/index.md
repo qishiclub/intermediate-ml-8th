@@ -130,17 +130,17 @@ CASI: 16.1-16.8  
 
 Week 30(5.6): Lecture 12: EM Algorithm (Bin Han)  
 
-Week 29(5.13): Lecture 13: Graphical Models (Optional)
+Week 31(5.13): Lecture 13: Graphical Models (Optional)
 
 ESL: 17.1-17.4; PRML: 8.1-8.4 
 
-Week 30(5.20): Lecture 14: Sequential Data: HMM (Junlin Liu) 
+Week 32(5.20): Lecture 14: Sequential Data: HMM (Junlin Liu) 
 
 PRML: 13.1-13.3 
 
-Week 31(5.27): Lecture 15: Generative Model: VAE, Flow, and GAN (Hao Ying) 
+Week 33(5.27): Lecture 15: Generative Model: VAE, Flow, and GAN (Hao Ying) 
 
 PMLAdva: Part IV 
 
-Week 32(6.3): Lecture 16: Diffusion Model (Optional)(Very Hot Topic!!!)
+Week 34(6.3): Lecture 16: Diffusion Model (Optional)(Very Hot Topic!!!)
 
