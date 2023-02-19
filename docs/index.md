@@ -86,25 +86,23 @@ Week 14(1.28): Interview question of regression(Xiaonan Peng)
 
 Week 15(2.4): Tutorial 3(Hao Ying) 
 
-Week 16(2.18): Break
+Week 16(2.18): Tutorial 4(Bowei Fan)
 
-Week 17(2.25): Tutorial 4(Bowei Fan) 
-
-Week 18(3.4): Lecture 5: Tree and Random Forest (Zhuangzhuang Han) 
+Week 17(2.25): Lecture 5: Tree and Random Forest (Zhuangzhuang Han) 
 
 ISL: 8.1, 8.2.1-8.2.2; ESL: 9.1-9.7, 15.1-15.4  
 
-Week 19(3.11): Lecture 6: Boosting (Zhe Yang) 
+Week 18(3.4): Lecture 6: Boosting (Zhe Yang) 
 
 ISL: 8.2.3-8.2.5; ESL:10.1-10.14, 16.1-16.3 
 
-Week 20(3.18): Tutorial 5 (Zhuangzhuang Han) 
+Week 19(3.11): Tutorial 5 (Zhuangzhuang Han) 
 
-Week 21(3.25): Tutorial 6 (Zhe Yang) 
+Week 20(3.18): Tutorial 6 (Zhe Yang) 
 
-Week 22: Break
+Week 21: Break
 
-Week 23(4.1): Lecture 7: SVM (Xiaonan Peng) 
+Week 22(4.1): Lecture 7: SVM (Xiaonan Peng) 
 
 ISL: 9.1-9.5; ESL 12.1-12.6 
 
