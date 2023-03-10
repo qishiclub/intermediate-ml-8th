@@ -96,9 +96,9 @@ Week 18(3.4): Lecture 6: Adaboost (Zhe Yang)
 
 ISL: 8.2.3-8.2.5; ESL:10.1-10.14, 16.1-16.3 
 
-Week 19(3.11): Tutorial 5 (Zhuangzhuang Han & Hao Ying) 
+Week 19(3.11): Break
 
-Week 20(3.18): Break
+Week 20(3.18): Tutorial 5 (Zhuangzhuang Han & Hao Ying) 
 
 Week 21(3.25): Lecture 7: SVM (Xiaonan Peng) 
 
