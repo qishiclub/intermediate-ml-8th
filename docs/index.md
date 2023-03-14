@@ -100,19 +100,15 @@ Week 19(3.11): Break
 
 Week 20(3.18): Tutorial 5 (Zhuangzhuang Han & Hao Ying) 
 
-Week 21(3.25): Lecture 7: SVM (Xiaonan Peng) 
+Week 21(3.25): Lecture 7: Deep Learning (Jade Tan) 
 
-ISL: 9.1-9.5; ESL 12.1-12.6 
+Week 22(4.1):  Lecture 6(Continued): Gradient Boost (Yang Zhe)
 
-Week 22(4.1):  Lecture 6: Gradient Boost (Yang Zhe)
+Week 23(4.8): Lecture 8: SVM (Xiaonan Peng) 
 
-Week 24(4.8): Lecture 8: Deep Learning (Jade Tan) 
+Week 25(4.15): Tutorial 8(Xiaonan Peng) 
 
-ISL: 10.1-10.8; ESL: 11.1-11.10; PRML: Chapter 5; [http://neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/) 
-
-Week 25(4.15): Tutorial 7(Xiaonan Peng) 
-
-Week 26(4.22): Tutorial 8(Jade Tan) 
+Week 26(4.22): Tutorial 7(Jade Tan) 
 
 Week 27: Break
 
