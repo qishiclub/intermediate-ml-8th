@@ -4,7 +4,6 @@ https://openai.com/blog/deep-double-descent/
 When the models are large enough to fit the training set, continuing increasing the model complexity can lead to a second decline of the testing error. (e.g. Error peaks when number of parameters is about equal to the sample size for linear regression.) 
 
 Some theoretical analysis on simple models (e.g. see Two Models of Double Descent for Weak Features)
-![[Two Models of Double Descent for Weak Features.pdf]]
 
 ![[Pasted image 20230118173057.png]]
 ![[Pasted image 20230118173824.png]]
