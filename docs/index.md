@@ -104,37 +104,37 @@ Week 21(3.25): Lecture 7: Deep Learning (Jade Tan)
 
 Week 22(4.1):  Lecture 6(Continued): Gradient Boost (Yang Zhe)
 
-Week 23(4.8): Lecture 8: SVM (Xiaonan Peng) 
+Week 23(4.8): Break
 
-Week 25(4.15): Tutorial 8(Xiaonan Peng) 
+Week 24(4.15): Lecture 8: SVM (Xiaonan Peng) 
 
-Week 26(4.22): Tutorial 7(Jade Tan) 
+Week 25(4.22): Tutorial 8(Xiaonan Peng) 
 
-Week 27: Break
+Week 26(4.29): Tutorial 7(Jade Tan) 
 
 ### Advanced Topics 
 
-Week 28(5.6): Lecture 9: Prototype Analysis ,KNN, and Survival Analysis (Bowei Fan) 
+Week 27(5.6): Lecture 9: Prototype Analysis ,KNN, and Survival Analysis (Bowei Fan) 
 
 ISL: 11.1-11.7 ESL: 13.1-13.5 
 
-Week 29(5.13): Lecture 11: Sparse Modeling and Lasso (Zhiyuan Li) 
+Week 28(5.13): Lecture 11: Sparse Modeling and Lasso (Zhiyuan Li) 
 
 CASI: 16.1-16.8  
 
-Week 30(5.20): Lecture 12: EM Algorithm (Bin Han)  
+Week 29(5.20): Lecture 12: EM Algorithm (Bin Han)  
 
-Week 31(5.27): Lecture 13: Graphical Models (Optional)
+Week 30(5.27): Lecture 13: Graphical Models (Optional)
 
 ESL: 17.1-17.4; PRML: 8.1-8.4 
 
-Week 32(6.3): Lecture 14: Sequential Data: HMM (Junlin Liu) 
+Week 31(6.3): Lecture 14: Sequential Data: HMM (Junlin Liu) 
 
 PRML: 13.1-13.3 
 
-Week 33(6.10): Lecture 15: Generative Model: VAE, Flow, and GAN (Hao Ying) 
+Week 32(6.10): Lecture 15: Generative Model: VAE, Flow, and GAN (Hao Ying) 
 
 PMLAdva: Part IV 
 
-Week 34(6.17): Lecture 16: Diffusion Model (Optional)(Very Hot Topic!!!)
+Week 33(6.17): Lecture 16: Diffusion Model (Optional)(Very Hot Topic!!!)
 
