@@ -108,11 +108,9 @@ Week 23(4.8): Break
 
 Week 24(4.15): Lecture 8: SVM (Xiaonan Peng) 
 
-Week 25(4.22): Tutorial 8(Xiaonan Peng) 
+Week 25(4.22): Lectuer 7(Continued): AlexNet (Jade Tan) 
 
-Week 26(4.29): Tutorial 7(Jade Tan) 
-
-### Advanced Topics 
+### Advanced Topics (Advanced ML)
 
 Week 27(5.6): Lecture 9: Prototype Analysis ,KNN, and Survival Analysis (Bowei Fan) 
 
