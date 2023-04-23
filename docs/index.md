@@ -112,27 +112,28 @@ Week 25(4.22): Lectuer 7(Continued): AlexNet (Jade Tan) 
 
 ### Advanced Topics (Advanced ML)
 
-Week 27(5.6): Lecture 9: Prototype Analysis ,KNN, and Survival Analysis (Bowei Fan) 
+Lecture 9: Prototype Analysis ,KNN, and Survival Analysis
 
 ISL: 11.1-11.7 ESL: 13.1-13.5 
 
-Week 28(5.13): Lecture 11: Sparse Modeling and Lasso (Zhiyuan Li) 
+Lecture 10: Unsupervised Learning, matrix factorization
+
+Lecture 11: Sparse Modeling and Lasso 
 
 CASI: 16.1-16.8  
 
-Week 29(5.20): Lecture 12: EM Algorithm (Bin Han)  
 
-Week 30(5.27): Lecture 13: Graphical Models (Optional)
+Lecture 12: EM Algorithm and GMM
 
-ESL: 17.1-17.4; PRML: 8.1-8.4 
+Lecture 13: Variational Inference
 
-Week 31(6.3): Lecture 14: Sequential Data: HMM (Junlin Liu) 
+Lecture 14: Sequential Data: HMM 
 
-PRML: 13.1-13.3 
+Lecture 15: Generative Model: VAE
 
-Week 32(6.10): Lecture 15: Generative Model: VAE, Flow, and GAN (Hao Ying) 
+Lecture 16: GAN
 
-PMLAdva: Part IV 
+Lecture 17: Flow-based method
 
-Week 33(6.17): Lecture 16: Diffusion Model (Optional)(Very Hot Topic!!!)
+Lecture 16: Diffusion Model 
 
