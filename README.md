@@ -37,9 +37,13 @@ Week 2(11.5): Introduction1-Linear Algebra (Xiaonan Peng)
 
 Linear transformation, matrix multiplication, four subspaces, determinant, eigenvalue problem, spectral theorem, SVD, multi-noraml distribution.
 
+Main reference: [线代启示录](https://ccjou.wordpress.com)
+
 Week 3(11.12): Introduction2-Optimization (Xiaonan Peng)
 
 Matrix calculus: vector and matrix derivatives. Convex optimization: convex set and function, first order condition theorem, Lagrange multiplier, KKT condition.
+
+Main reference: [矩阵导数](https://ccjou.wordpress.com/2013/05/31/矩陣導數/)
 
 Week 4(11.19): Lecture 1: Linear Regression (Xiaonan Peng)
 
@@ -50,7 +54,7 @@ ISL: 3.1-3.5; ESL: ch2, 3.1-3.2
 
 Week 5(11.26): Lecture 2: Linear Classification (Zhongcan Wang)
 
-ISL: 4.1-4.5; ESL: 4.1-4.2, 4.3.1-4.3.2, 4.4 
+ISL: 4.1-4.5; ESL: 4.1-4.2, 4.3.1-4.3.2, 4.4 
 
 Week 6(12.3): Lecture 1(continued): Regularization (Xiaonan Peng) 
 
