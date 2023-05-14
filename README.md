@@ -54,6 +54,8 @@ ISL: 3.1-3.5; ESL: ch2, 3.1-3.2
 
 Week 5(11.26): Lecture 2: Linear Classification (Zhongcan Wang)
 
+Navie Bayes, logistic regression, LDA.
+
 ISL: 4.1-4.5; ESL: 4.1-4.2, 4.3.1-4.3.2, 4.4 
 
 Week 6(12.3): Lecture 1(continued): Regularization (Xiaonan Peng) 
