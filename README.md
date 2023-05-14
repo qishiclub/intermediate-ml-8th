@@ -39,6 +39,7 @@ Linear transformation, matrix multiplication, four subspaces, determinant, eigen
 
 Main reference: [线代启示录](https://ccjou.wordpress.com)
 
+
 [Assignment0a](Lecture-Math/Assignment 0.pdf)
 
 Week 3(11.12): Introduction2-Optimization (Xiaonan Peng)
@@ -80,7 +81,7 @@ Week 9 & 10: Break 
 
 Week 11(1.7): Lecture 3: Resampling, model selection: CV and Bootstrap (Hao Ying) 
 
-[Assigment3](Lecture3-Model Assessment and Selection/Assignment 3.pdf)
+[Assignment3](Lecture3-Model Assessment and Selection/Assignment 3.pdf)
 
 ISL: 5.1-5.2; ESL: 7.1-7.12, 8.1-8.4 
 
