@@ -39,22 +39,16 @@ Linear transformation, matrix multiplication, four subspaces, determinant, eigen
 
 Main reference: [线代启示录](https://ccjou.wordpress.com)
 
-[Assignment0a](Lecture-Math/Assignment 0.pdf)
-
 Week 3(11.12): Introduction2-Optimization (Xiaonan Peng)
 
 Matrix calculus: vector and matrix derivatives. Convex optimization: convex set and function, first order condition theorem, Lagrange multiplier, KKT condition.
 
 Main reference: [矩阵导数](https://ccjou.wordpress.com/2013/05/31/矩陣導數/)
 
-[Assignment0b](Lecture0-Math/Assignment0(Part II).pdf)
-
 Week 4(11.19): Lecture 1: Linear Regression (Xiaonan Peng)
 
 Bia-variance trade-off. Simple linear regression: LSE, MLE, Bayesian estimator, R^2 and r^2. Multiple linear regression: Closed-form solution: LSE, geometric interptation and MLE, Gauss-Markov thm.
 Abnormal diagnostics: non-linearity, correlation of errorsm, outlier, high leverge points, collinearity.
-
-[Assignment1a](Lecture1-Regression/Assignment1a.pdf)
 
 ISL: 3.1-3.5; ESL: ch2, 3.1-3.2
 
@@ -68,8 +62,6 @@ Week 6(12.3): Lecture 1(continued): Regularization (Xiaonan Peng) 
 
 [Ridge](Lecture1-Regression/Ridge.pdf) and [Lasso](Lecture1-Regression/Lasso.pdf).
 
-[Assignment1b](Lecture1-Regression/Assignment1b.pdf)
-
 ISL: 6.1-6.2; ESL: 3.3-3.4 
 
 Week 7(12.10): Tutorial 1(Xiaonan Peng) 
@@ -79,8 +71,6 @@ Week 8(12.17): Tutorial 2(Zhongcan Wang) 
 Week 9 & 10: Break 
 
 Week 11(1.7): Lecture 3: Resampling, model selection: CV and Bootstrap (Hao Ying) 
-
-[Assignment3](Lecture3-Model Assessment and Selection/Assignment 3.pdf)
 
 ISL: 5.1-5.2; ESL: 7.1-7.12, 8.1-8.4 
 
