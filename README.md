@@ -39,7 +39,7 @@ Linear transformation, matrix multiplication, four subspaces, determinant, eigen
 
 Main reference: [线代启示录](https://ccjou.wordpress.com)
 
-[Assignment0a](Lectuer0-Math/Assignment 0.pdf)
+[Assignment0a](Lectuer-Regression/Assignment1a.pdf)
 
 Week 3(11.12): Introduction2-Optimization (Xiaonan Peng)
 
