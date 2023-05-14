@@ -34,18 +34,23 @@ Week 1(10.29): Orientation 
 ### Basic Topics 
 
 Week 2(11.5): Introduction1-Linear Algebra (Xiaonan Peng)
+Linear transformation, matrix multiplication, four subspaces, determinant, eigenvalue problem, spectral theorem, SVD, multi-noraml distribution.
 
 Week 3(11.12): Introduction2-Optimization (Xiaonan Peng)
+Matrix calculus: vector and matrix derivatives. Convex optimization: convex set and function, first order condition theorem, Lagrange multiplier, KKT condition.
 
 Week 4(11.19): Lecture 1: Linear Regression (Xiaonan Peng)
+Bia-variance trade-off. Simple linear regression: LSE, MLE, Bayesian estimator, R^2 and r^2. Multiple linear regression: Closed-form solution: LSE, geometric interptation and MLE, Gauss-Markov thm.
+Abnormal diagnostics: non-linearity, correlation of errorsm, outlier, high leverge points, collinearity.
 
-ISL: 3.1-3.5; ESL: 3.1-3.2 
+ISL: 3.1-3.5; ESL: ch2, 3.1-3.2
 
-Week 5(11.26): Lecture 2: Linear Classification (Zhongcan Wang) 
+Week 5(11.26): Lecture 2: Linear Classification (Zhongcan Wang)
 
 ISL: 4.1-4.5; ESL: 4.1-4.2, 4.3.1-4.3.2, 4.4 
 
 Week 6(12.3): Lecture 1(continued): Regularization (Xiaonan Peng) 
+Ridge and Lasso.
 
 ISL: 6.1-6.2; ESL: 3.3-3.4 
 
