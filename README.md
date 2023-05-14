@@ -39,6 +39,8 @@ Linear transformation, matrix multiplication, four subspaces, determinant, eigen
 
 Main reference: [线代启示录](https://ccjou.wordpress.com)
 
+[Assignment](Lectuer0-Math/Assignment0.pdf)
+
 Week 3(11.12): Introduction2-Optimization (Xiaonan Peng)
 
 Matrix calculus: vector and matrix derivatives. Convex optimization: convex set and function, first order condition theorem, Lagrange multiplier, KKT condition.
