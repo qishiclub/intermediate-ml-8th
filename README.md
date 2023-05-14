@@ -39,7 +39,7 @@ Linear transformation, matrix multiplication, four subspaces, determinant, eigen
 
 Main reference: [线代启示录](https://ccjou.wordpress.com)
 
-[Assignment0a](Lectuer-Regression/Assignment1a.pdf)
+[Assignment0a](Lecture-Math/Assignment 0.pdf)
 
 Week 3(11.12): Introduction2-Optimization (Xiaonan Peng)
 
@@ -47,14 +47,14 @@ Matrix calculus: vector and matrix derivatives. Convex optimization: convex set 
 
 Main reference: [矩阵导数](https://ccjou.wordpress.com/2013/05/31/矩陣導數/)
 
-[Assignment0b](Lectuer0-Math/Assignment0(Part II).pdf)
+[Assignment0b](Lecture0-Math/Assignment0(Part II).pdf)
 
 Week 4(11.19): Lecture 1: Linear Regression (Xiaonan Peng)
 
 Bia-variance trade-off. Simple linear regression: LSE, MLE, Bayesian estimator, R^2 and r^2. Multiple linear regression: Closed-form solution: LSE, geometric interptation and MLE, Gauss-Markov thm.
 Abnormal diagnostics: non-linearity, correlation of errorsm, outlier, high leverge points, collinearity.
 
-[Assignment1a](Lectuer1-Regression/Assignment1a.pdf)
+[Assignment1a](Lecture1-Regression/Assignment1a.pdf)
 
 ISL: 3.1-3.5; ESL: ch2, 3.1-3.2
 
@@ -66,9 +66,9 @@ ISL: 4.1-4.5; ESL: 4.1-4.2, 4.3.1-4.3.2, 4.4
 
 Week 6(12.3): Lecture 1(continued): Regularization (Xiaonan Peng) 
 
-[Ridge](Lectuer1-Regression/Ridge.pdf) and [Lasso](Lectuer1-Regression/Lasso.pdf).
+[Ridge](Lecture1-Regression/Ridge.pdf) and [Lasso](Lecture1-Regression/Lasso.pdf).
 
-[Assignment1b](Lectuer1-Regression/Assignment1b.pdf)
+[Assignment1b](Lecture1-Regression/Assignment1b.pdf)
 
 ISL: 6.1-6.2; ESL: 3.3-3.4 
 
