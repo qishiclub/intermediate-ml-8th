@@ -1,6 +1,6 @@
-# 机器学习课程大纲
+# 中级机器学习小组第八期课程大纲
 
-本仓库包含了一个关于机器学习的课程大纲，包括课程安排、教材和参考资料等。
+本仓库包含了课程大纲，包括课程安排、教材和参考资料等。
 
 ## 教材
 
@@ -24,9 +24,7 @@
 
 1. Stanford ISL (Hastie)：[https://www.edx.org/course/statistical-learning](https://www.edx.org/course/statistical-learning)
 2. NTU Machine Learning Foundation and Technics (林轩田)：[https://www.coursera.org/instructor/htlin](https://www.coursera.org/instructor/htlin)
-3. BIMSA：Sequential Model and Time series：[https://www.bimsa.cn/newsinfo/749652.html](https://www.bimsa.cn/newsinfo/749652.html)
-4. BIMSA：Bayesian Machine Learning：[https://www.bimsa.cn/newsinfo/752150.html](https://www.bimsa.cn/newsinfo/752150.html)
-5. Bilibili：机器学习白板推导：[https://www.bilibili.com/video/BV1aE411o7qd](https://www.bilibili.com/video/BV1aE411o7qd)
+3. Bilibili：机器学习白板推导：[https://www.bilibili.com/video/BV1aE411o7qd](https://www.bilibili.com/video/BV1aE411o7qd)
 
 ## 课程安排
 
